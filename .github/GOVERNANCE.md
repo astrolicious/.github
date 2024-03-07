@@ -6,11 +6,12 @@ Inspired by [Astro](https://github.com/withastro/.github/blob/main/GOVERNANCE.md
 - [Introduction](#introduction)
 - [Mission](#mission)
 - [Roles](#roles)
-  - [Organization Mngmt (Management)](#organization-mngmt-management)
+  - [Key Principles](#key-principles)
+  - [Organization Management](#organization-management)
   - [Organization IC (Individual Contributors)](#organization-ic-individual-contributors)
   - [Projects IC ( Individual Contributors)](#projects-ic--individual-contributors)
   - [Retiring a Role (Alumni)](#retiring-a-role-alumni)
-- [Fundings](#fundings)
+- [Funding](#funding)
   - [Raising Funds](#raising-funds)
   - [Why Open Collective?](#why-open-collective)
   - [Distributing Funds](#distributing-funds)
@@ -26,59 +27,62 @@ _**Astrolicious**_ is an independent community organization, unaffiliated with t
 
 ## Roles
 
-Our role matrix exists out of four seperated paths, one being management focused while all other three are IC (individual contributer) focused. Every member of the community can get a role granted in each of the path, but only one role per path can be held at any given time.
+Our community governance structure comprises four distinct paths: one management-focused and three focused on individual contributors (IC). This document outlines the roles within each path, eligibility, and the process for role assignment and retirement.
 
-Roles are available to **all members** of the community!
+### Key Principles
 
-**What things do we look for in a role candidate?**
+- **Role Exclusivity**: Each community member may hold one role per path, ensuring diversity and involvement across the board.
+- **Open Eligibility**: All roles are open to every community member, promoting inclusivity and participation.
+- **Voluntary Participation**: Contributors can assume roles as long as they wish and may exit voluntarily at any time.
+- **Role Retirement**: For details on voluntarily leaving a role or role revocation in extreme cases, refer to the ["Retiring a Role"](#retiring-a-role-alumni) section.
 
-- **Being a positive member of our community** - Go above and beyond our [Code of Conduct](CODE_OF_CONDUCT.md) and commit to healthy communication across pull requests, issue discussions, Discord conversations, and any interactions outside of our community.
+### Organization Management
 
-All Contributor roles are granted for as long as the individual wishes to engage in given role. Contributors can voluntarily also leave the project at any time. See [Retiring a Role](#retiring-a-role-alumni) below for more information. In extreme cases a role may be revoked.
-
-Each new Role unlocks new privileges and responsibilities. Below is a summary of our roles.
-
-### Organization Mngmt (Management)
+These roles focus on overarching project management without requiring individual contributions. They cater to members steering the project's direction and health.
 
 #### Stewards <!-- omit in toc -->
 
-TBA
+The pinnacle role overseeing the project's overall well-being, inclusivity, and sustainability. They prevent the project from being dominated by single entities. Stewards' responsibilities are not funded, though they may receive funding for other roles.
 
 #### Masterminds <!-- omit in toc -->
 
-TBA
+Known also as the "Board" or "Technical Steering Committee," they are the decision-making core, ensuring the project's and community's health. Masterminds oversee organizational decisions, affecting integrated projects but not standalone ones due to their independent nature. Mastermind' responsibilities are not funded, though they may receive funding for other roles.
 
 #### Enthusiasts <!-- omit in toc -->
 
-TBA
+Engaged members passionate about the project, acting as community ambassadors without participating in decision-making. They represent the community externally. Enthusiast' responsibilities are not funded, though they may receive funding for other roles.
 
 ### Organization IC (Individual Contributors)
 
+These roles are for members contributing directly to organization-initiated projects (e.g., Blog, Portal, Website, Infrastructure).
+
 #### Catalysts <!-- omit in toc -->
 
-TBA
+Project administrators with the highest authority, responsible for moderation and decision-making within organizational guidelines. They are eligible for optional funding based on time, activity commitments and fund availability.
 
 #### Pathfinders <!-- omit in toc -->
 
-TBA
+Project maintainers with autonomy to maintain projects in line with established decisions and directions. They are eligible for optional funding based on time, activity commitments and fund availability.
 
 #### Artisans <!-- omit in toc -->
 
-TBA
+Selected contributors with the right to triage projects, requiring approval from Catalysts or Pathfinders for changes to be merged.
 
 ### Projects IC ( Individual Contributors)
 
+This section details the roles designated for members contributing to community-integrated projects. Unlike organization-initiated projects, these roles are specific to projects that have undergone the community's submission, voting, and onboarding process. Examples include projects like `astrolicious/i18n`, `astrolicious/seeds`.
+
 #### Pioneers <!-- omit in toc -->
 
-TBA
+Serving as the top administrators for these projects, Pioneers wield the most authority. They play a crucial role in guiding project directions and decisions. Eligibility for optional funding for Pioneers is based on several factors: time committed, activity levels, the project's share percentage, and the availability of funds.
 
 #### Architects <!-- omit in toc -->
 
-TBA
+Architects act as project maintainers, ensuring the smooth operation and evolution of the project. Like Pioneers, Architects are eligible for optional funding, which is determined by their time commitment, activity levels, project share percentage, and fund availability.
 
 #### Creators <!-- omit in toc -->
 
-TBA
+As essential contributors, Creators have the ability to triage projects. However, their proposed changes require approval from either a Pioneer or Architect before merging. This ensures a collaborative and quality-controlled development environment.
 
 ### Retiring a Role (Alumni)
 
@@ -90,38 +94,56 @@ You can retire your role at any time and requesting Alumni status. You can initi
 
 As an Alumni member, you are still a part of the community. You may also request to have your old roles reinstated at any time through the normal process for that role.
 
-## Fundings
+## Funding
+
+Astrolicious is committed to maintaining its status as a free, MIT licensed open-source project. However, sustaining and enhancing the project requires financial support. We outline our funding mechanisms and how these funds are utilized to support the project's growth and sustainability.
 
 ### Raising Funds
 
-Astrolicious is an MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for Astrolicious is not sustainable without proper financial backing. We need your help to achieve this.
+Despite being a free-to-use project, Astrolicious faces significant maintenance and development challenges. Financial backing is essential for continued innovation and support.
 
-Learn more about sponsorship on our [Open Collective.](https://opencollective.com/astrolicious).
+- **Learn About Sponsorship**: Discover how to contribute at our [Open Collective](https://opencollective.com/astrolicious) page.
 
 ### Why Open Collective?
 
-- **Full Transparency.** Everyone gets to see where money is coming from and where it's going.
-- **Individual and Corporate Sponsors.** Open Collective makes it easy for both individuals and companies to sponsor open source projects.
-- **Potential Tax Benefits.** Because funds are paid to the Open Source Collective, a 501(c)(6) organization in the U.S., there may be tax benefits for some donors *(please check with your accountant)*.
-- **Automatic Invoicing.** For corporate sponsors, Open Collective automatically generates and sends invoices for tracking purposes.
-- **Open Participation.** Anyone can request reimbursement for funds spent helping the Astrolicious project and Astrolicious can pay out to anyone.
+Open Collective offers a transparent and efficient platform for managing our finances, appealing to both individual and corporate sponsors for several reasons:
+
+- **Transparency**: Detailed tracking of income and expenditures is available to the public.
+- **Inclusive Sponsorship**: Facilitates donations from both individuals and corporations.
+- **Tax Benefits**: Donations may be tax-deductible, as they're made to the Open Source Collective, a 501(c)(6) organization (consult your tax advisor).
+- **Automatic Invoicing**: Corporate sponsors receive invoices automatically, simplifying accounting processes.
+- **Community Reimbursements**: Community members can be reimbursed for expenses incurred in support of Astrolicious.
 
 ### Distributing Funds
 
-Every dollar spent **must** support and/or improve Astrolicious in some way. For example:
+Funds are allocated to initiatives directly benefiting Astrolicious, including but not limited to:
 
-- **Swag!** Creating stickers, t-shirts, etc. for sponsors and community members.
-- **Improve documentation.**
-- **Improve translations.**
-- **Improve website.**
-- **User research.**
-- **Supporting contributors.**
-- **Sponsoring conferences.**
-- **Sponsoring community members to represent Astrolicious at meetups, conferences, etc.**
-- **Dedicated support for GitHub, Discord, Stack Overflow, etc.**
+- **Community Swag**: Production of stickers, t-shirts, etc., for sponsors and community.
+- **Documentation Improvements**: Enhancing clarity and comprehensiveness.
+- **Translations**: Expanding accessibility to global users.
+- **Website Enhancements**: Improving user experience and information access.
+- **User Research**: Gathering insights to guide development.
+- **Contributor Support**: Financially supporting those who contribute to Astrolicious.
+- **Event Sponsorship**: Backing conferences and community representation at industry events.
+- **Dedicated Support Channels**: Offering professional support via GitHub, Discord, Stack Overflow, etc.
 
-See all past expenses on our [Open Collective.](https://opencollective.com/astrolicious)
+Explore our financial activities at our [Open Collective](https://opencollective.com/astrolicious) page.
 
 ### Eligibility
 
-TBA
+Astrolicious prioritizes the equitable distribution of funds to initiatives and contributions that significantly benefit the project and its community. In alignment with our governance structure, the eligibility for funding is directly related to the roles within the Astrolicious ecosystem. Below outlines the criteria and process for funding eligibility:
+
+- **Role-Based Eligibility**: Funding is primarily available to individuals holding specific roles within the Astrolicious governance structure, including Pioneers, Architects, Catalysts, and Pathfinders. These roles reflect varying levels of contribution and responsibility within the project.
+
+- **Contribution Impact**: The impact of the contribution on the Astrolicious project is a critical criterion. This includes enhancements to the project's core features, documentation, community support, and other areas that align with our strategic goals.
+
+- **Active Participation**: Eligibility is contingent upon active and ongoing participation in the Astrolicious project. Contributors must demonstrate a sustained commitment to their roles and the project's success.
+
+- **Project Alignment**: Requests for funding must align with the project's current needs and strategic objectives. This ensures that resources are allocated to areas of highest impact and priority.
+
+- **Transparent Application Process**: Individuals interested in funding must submit a detailed proposal outlining the intended use of funds, expected outcomes, and how these align with the project's goals. The proposal will be reviewed by the project's stewards or the relevant governing body.
+
+- **Accountability and Reporting**: Recipients of funding are expected to provide accountability for fund usage, including progress updates and a post-initiative report detailing the outcomes and impact on the Astrolicious project.
+
+- **Enhancing Community Engagement**: Special consideration is given to initiatives that aim to broaden community engagement, improve diversity and inclusion, and foster a welcoming environment for new contributors.
+
