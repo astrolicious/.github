@@ -40,15 +40,15 @@ Our community governance structure comprises four distinct paths: one management
 
 These roles focus on overarching project management without requiring individual contributions. They cater to members steering the project's direction and health.
 
-#### Stewards <!-- omit in toc -->
+#### Stewards (M3)<!-- omit in toc -->
 
 The pinnacle role overseeing the project's overall well-being, inclusivity, and sustainability. They prevent the project from being dominated by single entities. Stewards' responsibilities are not funded, though they may receive funding for other roles.
 
-#### Masterminds <!-- omit in toc -->
+#### Masterminds (M2) <!-- omit in toc -->
 
 Known also as the "Board" or "Technical Steering Committee," they are the decision-making core, ensuring the project's and community's health. Masterminds oversee organizational decisions, affecting integrated projects but not standalone ones due to their independent nature. Mastermind' responsibilities are not funded, though they may receive funding for other roles.
 
-#### Enthusiasts <!-- omit in toc -->
+#### Enthusiasts (M1) <!-- omit in toc -->
 
 Engaged members passionate about the project, acting as community ambassadors without participating in decision-making. They represent the community externally. Enthusiast' responsibilities are not funded, though they may receive funding for other roles.
 
@@ -56,33 +56,39 @@ Engaged members passionate about the project, acting as community ambassadors wi
 
 These roles are for members contributing directly to organization-initiated projects (e.g., Blog, Portal, Website, Infrastructure).
 
-#### Catalysts <!-- omit in toc -->
-
+#### Catalysts (ICO3) <!-- omit in toc -->
+<!-- GitHub Maintain (Core) -->
 Project administrators with the highest authority, responsible for moderation and decision-making within organizational guidelines. They are eligible for optional funding based on time, activity commitments and fund availability.
 
-#### Pathfinders <!-- omit in toc -->
-
+#### Pathfinders (ICO2) <!-- omit in toc -->
+<!-- GitHub Write (Maintainers) -->
 Project maintainers with autonomy to maintain projects in line with established decisions and directions. They are eligible for optional funding based on time, activity commitments and fund availability.
 
-#### Artisans <!-- omit in toc -->
-
+#### Artisans (ICO1) <!-- omit in toc -->
+<!-- GitHub Triage (Support/Trusted Contributors) -->
 Selected contributors with the right to triage projects, requiring approval from Catalysts or Pathfinders for changes to be merged.
+
+<!-- ICO0 -->
+<!-- GitHub Read (Community) -->
 
 ### Projects IC ( Individual Contributors)
 
 This section details the roles designated for members contributing to community-integrated projects. Unlike organization-initiated projects, these roles are specific to projects that have undergone the community's submission, voting, and onboarding process. Examples include projects like `astrolicious/i18n`, `astrolicious/seeds`.
 
-#### Pioneers <!-- omit in toc -->
-
+#### Pioneers (ICP3)<!-- omit in toc -->
+<!-- GitHub Maintain (Core) -->
 Serving as the top administrators for these projects, Pioneers wield the most authority. They play a crucial role in guiding project directions and decisions. Eligibility for optional funding for Pioneers is based on several factors: time committed, activity levels, the project's share percentage, and the availability of funds.
 
-#### Architects <!-- omit in toc -->
-
+#### Architects (ICP2) <!-- omit in toc -->
+<!-- GitHub Maintain (Maintainers) -->
 Architects act as project maintainers, ensuring the smooth operation and evolution of the project. Like Pioneers, Architects are eligible for optional funding, which is determined by their time commitment, activity levels, project share percentage, and fund availability.
 
-#### Creators <!-- omit in toc -->
-
+#### Creators (ICP1)<!-- omit in toc -->
+<!-- GitHub Triage (Support/Trusted Contributors) -->
 As essential contributors, Creators have the ability to triage projects. However, their proposed changes require approval from either a Pioneer or Architect before merging. This ensures a collaborative and quality-controlled development environment.
+
+<!-- ICO0 -->
+<!-- GitHub Read (Community) -->
 
 ### Retiring a Role (Alumni)
 
